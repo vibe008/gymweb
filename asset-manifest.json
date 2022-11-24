@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gymweb/static/css/main.f3fe9e93.css",
+    "main.js": "/gymweb/static/js/main.40c05fd2.js",
+    "static/js/787.4db2c2bf.chunk.js": "/gymweb/static/js/787.4db2c2bf.chunk.js",
+    "static/media/background.jpg": "/gymweb/static/media/background.af306acc976df6046a8d.jpg",
+    "static/media/boxing.jpg": "/gymweb/static/media/boxing.0798f562858981f9b2f5.jpg",
+    "static/media/logo2.png": "/gymweb/static/media/logo2.ecd6b0898efe8f2ee589.png",
+    "index.html": "/gymweb/index.html",
+    "main.f3fe9e93.css.map": "/gymweb/static/css/main.f3fe9e93.css.map",
+    "main.40c05fd2.js.map": "/gymweb/static/js/main.40c05fd2.js.map",
+    "787.4db2c2bf.chunk.js.map": "/gymweb/static/js/787.4db2c2bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fe9e93.css",
+    "static/js/main.40c05fd2.js"
+  ]
+}
